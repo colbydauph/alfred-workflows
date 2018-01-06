@@ -5,8 +5,8 @@ Workflows for [Alfred](https://www.alfredapp.com)
 
 ### Workflows
 
-|   |   |
-|---|---|
+| workflow      | description  |
+|---------------|--------------|
 | `atom`        | Opens [Atom](https://atom.io) with optional path  |
 | `aws-console` | Opens the [AWS Console](https://console.aws.amazon.com) with optional service |
 | `github`      | Opens [Github](https://github.com) repo  |
